@@ -1,0 +1,22 @@
+
+  .navbar__item {
+      color: white;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 1rem;
+  }
+
+  .navbar__link {
+    color: white;
+    font-style: none;
+  }
+
+
+@media (min-width: 768px) { 
+   
+
+    .navbar__item {
+        margin: 0 1rem;
+    }
+}
+
+  
